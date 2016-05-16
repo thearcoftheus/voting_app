@@ -10,6 +10,7 @@
   $header .= "CustomField.{Address}:".$_POST["address"].""."\r\n";
   $header .= "CustomField.{CellPhone}:".$_POST["phone"].""."\r\n";
   $header .= "CustomField.{City}:".$_POST["city"].""."\r\n";
+  $header .= "CustomField.{County}:".$_POST["county"].""."\r\n";
   $header .= "CustomField.{FirstName}:".$_POST["name"].""."\r\n";
   $header .= "CustomField.{LastName}:".$_POST["l_name"].""."\r\n";
   $header .= "X-Priority: 3\r\n";
