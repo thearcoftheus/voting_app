@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1> The Arc Voting App Form Proof of Concept </h1>
-<form action="post.php" method="post">
+<form action="post-EV.php" method="post">
 First Name: <input type="text" name="name"><br>
 Last Name: <input type="text" name="l_name"><br>
 Address: <input type="text" name="address"><br>
